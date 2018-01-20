@@ -1,4 +1,4 @@
-# <span style="color:red">42 Projects ☷
+# <span style="color:red">42 Projects ☷</span>
 
 
 First Header | Second Header
