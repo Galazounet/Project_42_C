@@ -1,10 +1,9 @@
-# <span style="color:red">42 Projects ☷</span>
+# 42 Projects ☷
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-Content in the first column | Content in the second column
-Content in the first column | Content in the second column
-Content in the first column | Content in the second column
+Projects | Subject | Progress
+------------ | ------------- | -----------------
+Libft | Library with all basic function | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅
+Get_next_line | Function that allows to read line by line |&nbsp;&nbsp;&nbsp;&nbsp; ✅
+Fillit | Recursiv program nest several tetriminos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅
+Ft_printf | Printf reproduction with most conversion and flag | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥
