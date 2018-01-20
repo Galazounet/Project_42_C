@@ -1,6 +1,4 @@
-# This is an <h1> tag
-## This is an <h2> tag
-# This is an  tag
+#######TTHIS IS 42 PROJECT
 
 
 *This text will be italic*
