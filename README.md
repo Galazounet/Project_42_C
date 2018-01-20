@@ -1,4 +1,4 @@
-#######TTHIS IS 42 PROJECT
+####### THIS IS 42 PROJECT
 
 
 *This text will be italic*
