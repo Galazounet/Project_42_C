@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#F08080">42 Projects ☷
+# <span style="color:#F08080">42 Projects ☷
 
 
 First Header | Second Header
