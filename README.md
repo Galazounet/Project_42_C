@@ -1,4 +1,4 @@
-####### <h1> THIS IS 42 PROJECT <h2>
+<h1> # THIS IS 42 PROJECT <h2>
 
 
 *This text will be italic*
