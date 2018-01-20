@@ -1,4 +1,5 @@
-<h1> # THIS IS 42 PROJECT <h2>
+# This is an <h1> tag
+
 
 
 *This text will be italic*
