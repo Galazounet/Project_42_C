@@ -1,4 +1,4 @@
-####### THIS IS 42 PROJECT <h1>
+####### THIS IS 42 PROJECT <h1> tag
 
 
 *This text will be italic*
