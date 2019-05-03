@@ -1,0 +1,16 @@
+FILE="/etc/crontab"
+FILE2="/root/tmp1"
+FILE3="/root/tmp2"
+
+if [ -f $FILE2 ]
+then
+	md5sum $FILE > $FILE3
+	if [ "$(diff $FILE2 $FILE3)" != "" ]
+	then
+		echo "AAAAAAAAAAAAA" | mail root
+	fi
+	md5sum $FILE > $FILE2
+else
+	md5sum $FILE > $FILE2
+fi
+rm -rf $FILE3

@@ -1,0 +1,4 @@
+for dir in "$@"
+do
+	du -sk "$dir"/* | sort -rn
+done
