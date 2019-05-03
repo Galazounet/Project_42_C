@@ -1,1 +1,0 @@
-echo "0 4 * * 1 apt-get full-upgrade && apt-get upgrade && apt-get update >> /var/log/update_script.log" | crontab -
