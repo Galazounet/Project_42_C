@@ -1,0 +1,20 @@
+		~~Bind~~
+
+1-2-3-4-5-6 : Color change.
+1-2-3 (NUM PAD) : Change fractal
+4-5 : Change Palette color.
+o-p : Adjust the Precision.
++ : Zoom on.
+- : Zoom out.
+c : Paint mod.
+f : Square mod.
+b : Preci mod.
+space : Stop moving.
+Arrow : Move frac.
+Clic : Zoom on your X, Y position.
+Scroll : Zoom on/out.
+
+---------------------------
+
+You can open multiple fractal.
+Multi-thread use.
