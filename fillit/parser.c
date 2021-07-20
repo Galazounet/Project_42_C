@@ -65,3 +65,4 @@ int		parse_all(int fd, t_data *t)
 		return (-1);
 	return (0);
 }
+
