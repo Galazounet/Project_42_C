@@ -6,3 +6,4 @@ live: live %0
 add r15, r15, r15
 zjmp %:sti
 
+

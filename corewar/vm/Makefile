@@ -89,6 +89,7 @@ LIBS			=	-lncurses
 
 all: $(NAME)
 
+
 $(NAME): $(SRCS) libft/libft.a 
 	$(CC) $(SRCS) -I libft/includes -L libft -lft -I includes  $(CFLAGS) $(LIBS) -o $(NAME)
 
