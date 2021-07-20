@@ -16,6 +16,7 @@ int		ft_putinline(t_p *k, char **line)
 {
 	char	*tmp;
 
+
 	if ((tmp = ft_strchr(k->pos, '\n')) != NULL)
 	{
 		*line = ft_strsub(k->pos, 0, tmp - k->pos);

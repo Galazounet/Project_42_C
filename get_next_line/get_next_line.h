@@ -18,6 +18,7 @@
 # define BUFF_TOTAL (BUFF_SIZE + BUFF_LEN)
 # include "./libft/libft.h"
 
+
 typedef struct		s_box
 {
 	int				fd;
